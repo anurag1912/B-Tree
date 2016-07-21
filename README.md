@@ -1,4 +1,5 @@
-# B-Tree--Pagesize = 4096 bytes
+# B-Tree
+Block size = 4096 bytes
 To compile and run all the test cases type "make" on the command prompt and this will compile and start executing the test cases.
 
 Tree files (Data Structure):
